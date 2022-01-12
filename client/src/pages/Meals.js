@@ -8,4 +8,6 @@ export default function Meals() {
       <MealsList />
     </div>
   );
+  
 }
+

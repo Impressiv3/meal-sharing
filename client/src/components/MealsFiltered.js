@@ -64,4 +64,5 @@ const MealsFiltered = () => {
   );
 };
 
+
 export default MealsFiltered;
