@@ -24,4 +24,6 @@ export default {
   get,
   getAll,
   create,
+  
 };
+

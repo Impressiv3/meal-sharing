@@ -4,5 +4,6 @@ export default function Reviews() {
         <h2>Reviews</h2>
       </div>
     );
+    
   }
   

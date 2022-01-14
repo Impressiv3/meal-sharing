@@ -4,5 +4,6 @@ export default function Reservation() {
         <h2>Reservation</h2>
       </div>
     );
+    
   }
   

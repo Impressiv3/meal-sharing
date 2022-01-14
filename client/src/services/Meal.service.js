@@ -42,4 +42,5 @@ export default {
   create,
   update,
   findByTitle,
+  
 };
